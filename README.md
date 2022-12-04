@@ -1,4 +1,4 @@
-#Hotel de Jojo
+***Hotel de Jojo***
 
 Selamat datang di _Hotel de Jojo_!
 
